@@ -1,0 +1,89 @@
+header{
+    background-image:url(https://images.unsplash.com/photo-1507398941214-572c25f4b1dc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGd5bXxlbnwwfHwwfHx8MA%3D%3D);
+    color: #db8308;
+
+}
+h1{
+
+    color: rgb(226, 43, 101);
+    text-align: center;
+    text-decoration: underline;
+    height: 200px;
+
+}
+.bas{
+    text-transform: lowercase; 
+    text-shadow:2px 3px 6px rgb(0, 255, 119);
+    color: rgb(255, 77, 0);
+    text-align: left;
+}
+.sanju{
+    text-transform:capitalize;
+    text-shadow: 3px 5px 3px rgb(124, 26, 65);
+    text-align:end;
+}
+.lavanya
+{text-transform:uppercase;
+text-shadow: #8de10f;
+text-align: left;
+}
+.darling{
+    
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    background: linear-gradient(to right,red ,green, yellow);
+    width:100% 50vw;
+    height: 30px;
+}
+.raju{
+   background: linear-gradient(rgb(20, 75, 153),rgb(132, 138, 132),rgb(255, 136, 0));
+   width: 300px;  
+   height: 700px;
+}
+.a{
+    background-color: white;
+
+    height: 200px; 
+    width:300px;
+    margin-top: 10%;
+    margin-left: 200%;
+    margin-top: 10%;
+    border: 3px solid rgb(161, 158, 159);
+    text-align: center;
+}
+.karna{
+        background-color: white;
+        width: 300px;
+        height: 200px;
+        margin-top: 30px;
+        margin-left: 200%;
+        border: 3px solid rgb(208, 201, 190);
+        text-align: center;
+}
+.madhan{
+        background-color: white;
+        width: 300px;
+        height:200px;
+        margin-top: 30px;
+        margin-left: 200%;
+        border: 3px solid rgb(182, 179, 172);
+        text-align: center;
+
+}
+h3{
+   color: aqua;
+   font-weight: bold;
+   text-decoration: none;
+}
+
+    
+
+
+
+
+
+    
